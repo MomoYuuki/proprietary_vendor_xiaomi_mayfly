@@ -983,6 +983,7 @@ PRODUCT_PACKAGES += \
     libmibokeh_855 \
     libmiphone_capture_ldc \
     libmiphone_preview_bokeh \
+    libmiphone_preview_depth \
     libmiphone_preview_ldc \
     libmmcamera_bestats \
     libmmcamera_cac3 \
